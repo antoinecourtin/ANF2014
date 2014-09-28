@@ -1,6 +1,6 @@
 Tweets ANF2014
 =======================
-> Ensemble des tweets de la formation ANF2014 
+- Ensemble des tweets de la formation ANF2014 
 - Sujet : Le Web sémantique pour les Sciences Humaines et Sociales
 - Date : du 21 au 25 avril
 - Lieu: Villa Clythia CAES du CNRS
