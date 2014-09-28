@@ -9,7 +9,7 @@ Villa Clythia CAES du CNRS
 Pour plus d'info sur la formation : http://www.huma-num.fr/anf-websem-2014
 
 2 fichiers :
-- Tweets_total.csv: export CSV de toutes les informations, sans modifications a posteriori
-- Tweets_total_V2.csv: fichier modifié avec comme info : id + User + Time + Hashtags + Mentions (pour ces deux dernières info, extraction grâce à des REGEX)
+- Tweets_total.csv: export CSV des tweets sans modifications a posteriori
+- Tweets_total_V2.csv: fichier modifié avec seulement comme info : id + User + Time + Hashtags + Mentions (pour ces deux dernières info, extraction grâce à des REGEX)
 
 
