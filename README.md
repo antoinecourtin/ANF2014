@@ -1,6 +1,5 @@
 Tweets ANF2014
 =======================
-
 Ensemble des tweets de la formation ANF2014 
 - Sujet : Le Web sémantique pour les Sciences Humaines et Sociales
 - Date : du 21 au 25 avril
@@ -19,7 +18,8 @@ Quelques chiffres
 
 - 554 tweets uniques 
 - 78 comptes ayant tweeté au moins une fois avec le hashtags
-- Top 10 
+
+
 Utilisateurs | Nbre de tweets | Nbre de mention | % de RT
 --- | --- | --- | ---
 spouyllau |	151	| 65	| 11%|
