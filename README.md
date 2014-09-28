@@ -34,4 +34,8 @@ symac	|8	|10	|13%|
 JavaMajor	|7	|#N/A|	100%|
 
 
-![alt text](https://www.dropbox.com/s/uv5ug12gwyr8029/tototototototo.png?dl=0)
+![alt text](http://www.noelshack.com/2014-39-1411931999-tototototo.png)
+![alt text](http://www.noelshack.com/2014-39-1411932000-tototototototo.png)
+
+
+
