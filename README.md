@@ -1,8 +1,7 @@
-##Tweets ANF2014
+Tweets ANF2014
 =======================
 
-#### Ensemble des tweets de la formation ANF2014 
-
+Ensemble des tweets de la formation ANF2014 
 - Sujet : Le Web sémantique pour les Sciences Humaines et Sociales
 - Date : du 21 au 25 avril
 - Lieu: Villa Clythia CAES du CNRS
@@ -10,7 +9,7 @@
 
 -----
 
-#### fichiers :
+2 fichiers :
 - Tweets_total.csv: export CSV des tweets sans modifications a posteriori
 - Tweets_total_V2.csv: fichier modifié avec seulement comme info : id + User + Time + Hashtags + Mentions (pour ces deux dernières info, extraction grâce à des REGEX)
 
@@ -33,5 +32,4 @@ sdjaloret|	14|	#N/A|	14%|
 emma_morlock	|11	|15|	9%|
 symac	|8	|10	|13%|
 JavaMajor	|7	|#N/A|	100%|
-
 
