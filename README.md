@@ -21,6 +21,7 @@ Quelques chiffres
 
 
 Utilisateurs | Nbre de tweets | Nbre de mention | % de RT
+--- | --- | --- | ---
 spouyllau |	151	| 65	| 11%|
 mingarao	| 97	|19	|19%|
 seeksanusername|	80|	61|	1%|
