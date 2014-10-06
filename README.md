@@ -34,4 +34,6 @@ symac	|8	|10	|13%|
 JavaMajor	|7	|#N/A|	100%|
 
 
+![alt tag](http://www.italian-renaissance-art.com/images/galatea-raphael.jpg)
+
 
